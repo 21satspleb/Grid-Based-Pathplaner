@@ -22,7 +22,7 @@ def main():
 
     while True:
         print('********************************************************')
-        print('* Grid-Based Pathplaner with Graph and A* Algorithm    *')
+        print('* Grid-Based Pathplaner with Graph and A* Algorithm    ')
         print('* Author: Julius Petri')
         print(f'* Boundary loaded : {boundary is not None}', end="")
         if boundary is not None:
